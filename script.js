@@ -118,14 +118,12 @@ function allDone() {
     questionsDiv.innerHTML = "";
     currentTime.innerHTML = "";
 
-    // Heading:
     var createH1 = document.createElement("h1");
     createH1.setAttribute("id", "createH1");
     createH1.textContent = "All Done!"
 
     questionsDiv.appendChild(createH1);
 
-    // Paragraph
     var createP = document.createElement("p");
     createP.setAttribute("id", "createP");
 

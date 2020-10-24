@@ -5,3 +5,7 @@ The purpose of this repository is to create a timed coding quiz with multiple-ch
 
 Link:
 https://kar3n33.github.io/CodeQuiz/
+
+Screenshot of homescreen:
+
+<a href= https://github.com/Kar3n33/CodeQuiz/blob/main/Assets/Homescreen.png>
