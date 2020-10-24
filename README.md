@@ -8,4 +8,4 @@ https://kar3n33.github.io/CodeQuiz/
 
 Screenshot of homescreen:
 
-<a href= https://github.com/Kar3n33/CodeQuiz/blob/main/Assets/Homescreen.png>
+<img src = https://github.com/Kar3n33/CodeQuiz/blob/main/Assets/Homescreen.png>
